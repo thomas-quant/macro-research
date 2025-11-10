@@ -12,3 +12,8 @@ Idea:
 Want to see how often different intra-macro profiles occur
 Eg. classic expansion macro, low @ 3:50, high @ 3:59
 Reversal macro, low @ 3:54-56, high @ 3:59
+
+## 09-11
+Idea:
+Want to see if smt during 3pm skews the macro direction. For simplicity sake I think I'll just use 5m smts, although that won't be entirely accurate to my trading, should be good enough
+For example, does SMT + other factors confirm macro direction more strongly than if there was no smt?
