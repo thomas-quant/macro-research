@@ -17,3 +17,12 @@ Reversal macro, low @ 3:54-56, high @ 3:59
 Idea:
 Want to see if smt during 3pm skews the macro direction. For simplicity sake I think I'll just use 5m smts, although that won't be entirely accurate to my trading, should be good enough
 For example, does SMT + other factors confirm macro direction more strongly than if there was no smt?
+
+## 11-11
+Idea:
+Added conceptual framework for analyzing 3:50 PM and 3:59 PM macro close behavior.
+Defined goals:
+Quantify portion of total macro range formed by 3:50 PM candle.
+Measure 3:59 PM candle’s share of range and classify its behavior (expansion, retrace, or both).
+
+Analyze conditional on macro direction (bullish/bearish).
